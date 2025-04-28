@@ -1,3 +1,4 @@
+# Sabiranje brojeva i spajanje kao tekst
 broj = 5
 decimalni_broj = 5.5
 tekst1 = str(broj)

@@ -1,3 +1,4 @@
+# Spajanje tekstualnih promenljivih i broja u jednu rečenicu
 ime="Jelena"
 grad="Beograd"
 poštanskiBroj=11000

@@ -1,3 +1,4 @@
+# Prikazivanje tipa podatka
 ime = "Miki"
 tip = type(ime)
 print(tip)

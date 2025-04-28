@@ -1,3 +1,4 @@
+# Brojanje koliko znakova ima u tekstu
 ime = "Miki"
 duzina_imena = len(ime)
 print(len("Miki Maus"))

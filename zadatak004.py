@@ -1,3 +1,4 @@
+# Kombinovanje teksta i broja u ispisu
 tekst1="Sad je"
 broj=16
 tekst2= "časova"

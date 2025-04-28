@@ -1,3 +1,4 @@
+# Sabiranje brojeva i prikazivanje brojeva kao tekst
 x=5
 y=4
 print(x+y)

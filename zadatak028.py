@@ -1,3 +1,4 @@
+# Računanje pređenog puta
 brzina = float(input("Unesi brzinu: "))
 vreme = float(input("Unesite vreme puta: "))
 put = brzina * vreme

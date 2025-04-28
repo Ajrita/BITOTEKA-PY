@@ -1,3 +1,4 @@
+# Pretvaranje teksta i decimalnog broja u ceo broj
 tekst = "7283"
 broj = int (tekst)
 print (broj + 1)

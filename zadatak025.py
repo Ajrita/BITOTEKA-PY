@@ -1,3 +1,4 @@
+# Pronalazak najmanjeg i najvećeg od tri broja
 broj1 = int(input("Unesi prvi broj: "))
 broj2 = int(input("Unesi drugi broj: "))
 broj3 = int(input ("Unesi treći broj: "))
