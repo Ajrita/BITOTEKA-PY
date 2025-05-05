@@ -4,6 +4,6 @@ if True:
 print("Ovo se svakako ispisuje jer nije deo ulova")
 
 if False:
-    print("Ovo neće")
+    print("Ovo neće jer je uslov netačan")
     print("I ovo neće")
 print("Ovo se svakako ispisuje jer nije deo ulova")
